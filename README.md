@@ -1,5 +1,5 @@
-# Hand live Cam Python
-Created a Hand Detection Tool which can change the system's volume using OpenCV and Mediapipe. It also recognizes finger patterns.
+# AI Virtual Painter Python
+Created a Virtual Painter Tool which can draw on the system's screen or also on a plain page using OpenCV, Numpy and Mediapipe. It does by recognizing finger patterns using a Hand detecting module, which I learnt to improvise and added new features to it.
 
 **Hand Detection** is a python software which is designed to detect hand movements and patterns. This can help to increase or decrease volume and brightness.
 
@@ -13,9 +13,8 @@ The following **required** functionality is completed:
 
 * [x] Program can **Analyze user hand movements**
 * [x] Program can **Detect different hand patterns**
-* [x] Program can **display volume status of the system**
-* [x] Program can **change the volume of the system by fingers** 
-* [x] User can **see the current FPS on the right top of the screen**
+* [x] Program can **draw with different colors on the screen**
+* [x] Program can **erase the drawings** 
 * [x] User can **safely exit the program** 
 
 ## Video Walkthrough
